@@ -54,11 +54,16 @@
 ### 🤖 &nbsp;Trabajando en proyectos...
 
 <a href="https://github.com/RXRAY3D/Comercium">
-    Comercium
-  </a>
-![image](https://github.com/user-attachments/assets/41d83f48-be18-4730-a3ed-36b4db438892)
+    Comercium </a>
+    
+![image](https://github.com/user-attachments/assets/bd46bc5a-057e-4c4a-8661-dc0243930312)
 
-https://rxray3d.github.io/Mothers-Days.github.io/
+
+
+
+<a href="https://rxray3d.github.io/Mothers-Days.github.io/">
+    Ver vista previa </a>
+
 ![image](https://github.com/user-attachments/assets/0a0af265-37a0-4f16-b085-bd8df064100b)
 
 
