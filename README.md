@@ -1,7 +1,7 @@
 ![BANER-GIT](https://github.com/user-attachments/assets/a278a0df-2240-4bbf-8f03-e30abf9cd45d)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Que tal ! Que bien que estes aqui!</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Que tal!. ¡Que bien que estes aqui!</h2>
 
 <!-- ## 👋 &nbsp;Que tal! Un que estes aqui -->
 
@@ -9,7 +9,7 @@
 
 👨‍💻 &nbsp;Actualmente continuo con mis estudios y practicas profesionales en la SENATI.\
 💡 &nbsp;Soy un entusiasta por la tecnologias, me gusta explorar proyectos relacionados con mi carrera.\
-🎓 &nbsp;Actualmente estudio Ing en Ciberceguridad y a la par Ing Electronica .\
+🎓 &nbsp;Estudio Ing en Ciberceguridad y a la par Ing Electronica .\
 🌱 &nbsp;Estoy proactivamente aprendiendo sobre Hacking, JavaScript, Node js, VueJs y bases de datos .\
 ✍️ &nbsp;En mi tiempo libre trabajo en mis proyectos personales.\
 💬 &nbsp;Voy a realizar una ayuda voluntaria para un comedor, desarrollando un aplicativo web para llevar su organizacion.\
@@ -41,7 +41,7 @@
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)&nbsp;-->
 
 
-### 🧰 &nbsp;Version Controll & Tools 
+### 🧰 &nbsp;Control de versiones y Herramientas
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
@@ -69,7 +69,7 @@
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi)-->
 
 
-### 📜 &nbsp;My Articulos
+<!--### 📜 &nbsp;Mis Articulos
 
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
 
@@ -77,7 +77,7 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi)-->
 
 
-### 🤝🏻 &nbsp;Mis redes
+<!--### 🤝🏻 &nbsp;Mis redes
 
 <p align="center">
 <a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
@@ -85,9 +85,9 @@
 <a href="mailto:adityakanoiofficial@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/aditya_kanoi123/"><img src="https://img.shields.io/badge/-Adityakanoi123-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100008728234917"><img src="https://img.shields.io/badge/-AdityaKanoi-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-</p>
+</p> -->
 
-### 🐍 &nbsp;That's How Commits move ...
+### 🐍 &nbsp;Se comieron mis commits  ...
 
 <div align="center">
   <a href="https://github.com/RXRAY3D/">
