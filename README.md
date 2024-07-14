@@ -17,7 +17,7 @@
 
 
 <!--<img alt="Night Coding" src="https://giphy.com/embed/l3q2XB76CaWPggiNW.gif" align="right"/>-->
-![GIF colorido de computadora](https://giphy.com/gifs/internet-computer-colorful-l3q2XB76CaWPggiNW)
+![GIF](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### 🛠 &nbsp;Tech Stack 
 
