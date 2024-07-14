@@ -17,7 +17,7 @@
 
 
 <!--<img alt="Night Coding" src="https://giphy.com/embed/l3q2XB76CaWPggiNW.gif" align="right"/>-->
-![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp1dXVidHlxbXd1b2NoeXdqc3B6NDA5b3BhbDBiOWR5ZnQ3ZWMyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy.gif)
+![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp1dXVidHlxbXd1b2NoeXdqc3B6NDA5b3BhbDBiOWR5ZnQ3ZWMyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2XB76CaWPggiNW/giphy-downsized.gif)
 
 ### 🛠 &nbsp;Tech Stack 
 
