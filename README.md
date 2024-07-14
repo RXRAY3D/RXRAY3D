@@ -1,25 +1,24 @@
 ![BANER-GIT](https://github.com/user-attachments/assets/a278a0df-2240-4bbf-8f03-e30abf9cd45d)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='30' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
+<!-- ## 👋 &nbsp;Que tal! Un que estes aqui -->
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Acerca de mi
 
-👨‍💻 &nbsp;I am Currently Working at Quinbay Technologies in Banglore as Backend Developer.\
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at New Horizon College of Engineering .\
-🌱 &nbsp;I'm on track for learning more about Web3, Microservice Based Architecture, Machine Learning.\
-✍️ &nbsp;In my free time, I pursue Logo Designing and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at adityakanoi123@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions!
+👨‍💻 &nbsp;Actualmente continuo con mis estudios y practicas profesionales en la SENATI.\
+💡 &nbsp;Soy un entusiasta por la tecnologias, me gusta explorar proyectos relacionados con mi carrera.\
+🎓 &nbsp;Actualmente estudio Ing en Ciberceguridad y a la par Ing Electronica .\
+🌱 &nbsp;Estoy proactivamente aprendiendo sobre Hacking, JavaScript, Node js, VueJs y bases de datos .\
+✍️ &nbsp;En mi tiempo libre trabajo en mis proyectos personales.\
+💬 &nbsp;Voy a realizar una ayuda voluntaria para un comedor, desarrollando un aplicativo web para llevar su organizacion.\
+✉️ &nbsp;Mi correo institucional son estos: 20185244@unica.edu 1449648@senati.pe.\
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-### 🛠 &nbsp;Tech Stack
+<img alt="Night Coding" src="https://giphy.com/embed/l3q2XB76CaWPggiNW" align="right"/>
+<!--<iframe src="https://giphy.com/embed/l3q2XB76CaWPggiNW" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/internet-computer-colorful-l3q2XB76CaWPggiNW">via GIPHY</a></p>
+### 🛠 &nbsp;Tech Stack -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
