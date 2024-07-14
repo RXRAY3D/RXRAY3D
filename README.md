@@ -1,7 +1,7 @@
 ![BANER-GIT](https://github.com/user-attachments/assets/a278a0df-2240-4bbf-8f03-e30abf9cd45d)
 
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='30' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
