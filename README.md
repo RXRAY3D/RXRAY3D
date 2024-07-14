@@ -34,12 +34,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
 
 
-### ⚙️ &nbsp;Trabajando en proyectos
-https://github.com/RXRAY3D/Comercium
-![image](https://github.com/user-attachments/assets/41d83f48-be18-4730-a3ed-36b4db438892)
 
-https://github.com/RXRAY3D/Mothers-Days.github.io
-https://rxray3d.github.io/Mothers-Days.github.io/
 <!--### 🗃 &nbsp;Databases
 
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)&nbsp;
@@ -55,6 +50,14 @@ https://rxray3d.github.io/Mothers-Days.github.io/
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+
+### 🤖 &nbsp;Trabajando en proyectos
+https://github.com/RXRAY3D/Comercium
+![image](https://github.com/user-attachments/assets/41d83f48-be18-4730-a3ed-36b4db438892)
+
+https://rxray3d.github.io/Mothers-Days.github.io/
+![image](https://github.com/user-attachments/assets/0a0af265-37a0-4f16-b085-bd8df064100b)
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
