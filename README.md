@@ -51,7 +51,7 @@
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
 
-### 🤖 &nbsp;Trabajando en proyectos
+### 🤖 &nbsp;Trabajando en proyectos...
 https://github.com/RXRAY3D/Comercium
 ![image](https://github.com/user-attachments/assets/41d83f48-be18-4730-a3ed-36b4db438892)
 
