@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKanoi2001&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RXRAY3D&theme=dark&hide_border=true"/>
 </p>
 
 <!--### 🎖 &nbsp;My Badges 
@@ -71,7 +71,6 @@
 
 ### 📜 &nbsp;My Articulos
 
-[![Medium](https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@adityakanoi123)
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://thedefenceengineer.quora.com/)
 
 <!--### 💰 &nbsp;Support My Work
